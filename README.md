@@ -8,7 +8,7 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** SaaS platforms, Laravel-Vue projects, and email deliverability solutions.
-- 🌱 **Currently learning:** Django and mastering JavaScript fundamentals.
+- 🌱 **Currently learning:** Python and MERN Stack Development.
 - 👯 **Open to collaborating:** On exciting **web development projects** and **email marketing solutions**.
 - ⚡ **Fun fact:** I believe every problem has a solution—if we work smartly!
 

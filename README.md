@@ -1,6 +1,5 @@
 # 👋 Zahid Hasan
 
-
 Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. I specialize in building scalable and efficient applications using modern technologies. My expertise spans PHP (Laravel, CodeIgniter, WordPress), JavaScript (MERN Stack, Vue.js, React, Next.js, Node.js), and mobile development with Flutter. I am passionate about creating seamless digital experiences and tackling complex technical challenges.
 
 ---
@@ -8,7 +7,7 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 🚀 About Me
 
 - 🔭 **Currently working on:** SaaS platforms, MERN Stack projects, and Laravel-Vue solutions.
-- 🌱 **Currently learning:** Python and Advance MERN Stack Development.
+- 🌱 **Currently learning:** Python and Advanced MERN Stack Development.
 - 👯 **Open to collaborating:** On exciting **web development projects** and **email marketing solutions**.
 - ⚡ **Fun fact:** I believe every problem has a solution—if we work smartly!
 
@@ -45,9 +44,6 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-
-
-
 ---
 
 ## 📊 GitHub Insights
@@ -73,28 +69,7 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ---
 
-## 💻 Love to Code
-
-I enjoy building, debugging, and scaling projects using the following technologies:
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-
----
-
 ## 🔧 Favorite Tools
-
-Here are some of the tools I love working with for efficient development:
 
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)

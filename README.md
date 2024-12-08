@@ -1,7 +1,5 @@
 # 👋 Zahid Hasan
 
-Hi, I'm Zahid Hasan, a **Web Developer**, **Email Deliverability Specialist**, and **AWS & Red Hat Server Administrator** with over 11 years of experience. My expertise includes PHP (MERN, Laravel, CodeIgniter, WordPress), email server management, VPS management, and modern web technologies like JavaScript, Vue.js, React, Next Js, Node JS and Flutter.
-
 Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. I specialize in building scalable and efficient applications using modern technologies. My expertise spans PHP (Laravel, CodeIgniter, WordPress), JavaScript (MERN Stack, Vue.js, React, Next.js, Node.js), and mobile development with Flutter. I am passionate about creating seamless digital experiences and tackling complex technical challenges.
 
 ---
@@ -52,7 +50,7 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ## 📫 Let's Connect
 
-- 🌐 **Website:** [Tech City Plus](https://techcityplus.com)
-- 📧 **Email:** zahid@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/zahidhasan](https://linkedin.com/in/zahidhasan)
-- 🐦 **Twitter:** [@zahidhasanr](https://twitter.com/zahidhasanr)
+- 🌐 **Website:** [Zahid Hasan](https://zahid.com.bd)
+- 📧 **Email:** inf@zahid.com.bd
+- 💼 **LinkedIn:** [linkedin.com/in/zahidhasan](https://www.linkedin.com/in/zahid-hasan-5118886a)
+- 🐦 **Twitter:** [@zahidhasanr](https://x.com/zahidhasanratan)

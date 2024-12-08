@@ -17,21 +17,34 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 🛠️ Skills and Expertise
 
 ### Web Development
-- **Languages:** PHP, JavaScript, Python 
-- **Frameworks:** Laravel, Vue.js, CodeIgniter, Next Js, Express Js
-- **Frontend Tools:** Vue, React, Bootstrap, TailwindCSS
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ### Email Solutions
-- **Services:** Email Deliverability, Domain Whitelisting, Email Reputation Repair
-- **Tools:** Klaviyo, Mailgun, AWS SES, Google Workspace
+[![Klaviyo](https://img.shields.io/badge/Klaviyo-52E872?style=for-the-badge&logo=klaviyo&logoColor=white)](https://www.klaviyo.com/)
+[![Mailgun](https://img.shields.io/badge/Mailgun-F06B64?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)
+[![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ses/)
+[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
 
 ### System Administration
-- **Platforms:** AWS, Red Hat, VPS Servers
-- **Expertise:** Hosting, DNS Management, Security Optimization
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
+[![VPS](https://img.shields.io/badge/VPS%20Hosting-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.vultr.com/)
+[![DNS Management](https://img.shields.io/badge/DNS%20Management-1572B6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 ### Mobile Development
-- **Languages:** Dart
-- **Frameworks:** Flutter
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 
 ---
 
@@ -53,8 +66,10 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 I enjoy building, debugging, and scaling projects using the following technologies:
 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -62,6 +77,7 @@ I enjoy building, debugging, and scaling projects using the following technologi
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 
 ---
 

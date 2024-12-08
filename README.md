@@ -46,6 +46,16 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 
+
+
+---
+
+## 📊 Most Used Languages
+> A snapshot of my coding journey based on the languages I use most frequently.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical)
+
+
 ---
 
 ## 📈 GitHub Stats

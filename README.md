@@ -50,17 +50,18 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ---
 
-## 📊 Most Used Languages
-> A snapshot of my coding journey based on the languages I use most frequently.
+## 📊 GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical)
-
-
----
-
-## 📈 GitHub Stats
-
-![Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidhasanratan&show_icons=true&theme=radical)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: center; min-width: 300px;">
+    <h3>📊 Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical" alt="Most Used Languages">
+  </div>
+  <div style="flex: 1; text-align: center; min-width: 300px;">
+    <h3>📈 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=zahidhasanratan&show_icons=true&theme=radical" alt="Zahid's GitHub Stats">
+  </div>
+</div>
 
 ---
 

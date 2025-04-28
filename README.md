@@ -61,6 +61,12 @@ A complete management system for Training Courses.
 - 🏛️ **Organization:** FIMA (Government Project)  
 - 🔗 **Visit Site:** <a href="https://course.fima.gov.bd/login" target="_blank">course.fima.gov.bd</a>  
 - 🛠️ **Built With:** Laravel, MySQL
+  
+🏢 **Sales Representative Management Software | SR Manage Software**  
+A management system designed for sales representatives and retailers.  
+- 🏛️ **Organization:** Nurjahan Co (Private Company)  
+- 🔗 **Visit Site:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
+- 🛠️ **Built With:** Laravel, MySQL
 
 
 ---

@@ -59,8 +59,9 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 🏥 **Course Management Software with Teacher Evaluation**  
 A complete management system for Training Courses.  
 - 🏛️ **Organization:** FIMA (Government Project)  
-- 🔗 **Visit Site:** [course.fima.gov.bd](https://course.fima.gov.bd/login)  
+- 🔗 **Visit Site:** <a href="https://course.fima.gov.bd/login" target="_blank">course.fima.gov.bd</a>  
 - 🛠️ **Built With:** Laravel, MySQL
+
 
 ---
 

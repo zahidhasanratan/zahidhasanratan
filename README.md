@@ -54,6 +54,14 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
+## 📂 My Portfolio
+
+🏥 **Course Management Software with Teacher Evaluation**  
+A complete management system for Training Courses.  
+- 🏛️ **Organization:** FIMA (Government Project)  
+- 🔗 **Visit Site:** [course.fima.gov.bd](https://course.fima.gov.bd/login)  
+- 🛠️ **Built With:** Laravel, MySQL
+
 ---
 
 ## 📊 GitHub Insights

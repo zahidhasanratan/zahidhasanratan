@@ -41,6 +41,8 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 [![Mailgun](https://img.shields.io/badge/Mailgun-F06B64?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)
 [![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ses/)
 [![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
+[![Microsoft Office 365](https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
+
 
 ### System Administration
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)

@@ -68,6 +68,11 @@ A management system designed for sales representatives and retailers.
 - 🔗 **Visit Site:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
 - 🛠️ **Built With:** Laravel, MySQL
 
+🏥 **Conference Management e-Ticketing Software**  
+Conference Management e-Ticketing Software where registrants can pay via bKash or an online payment gateway and receive an e-ticket for entry. A ticket verification system is also included. 
+- 🏛️ Organization: Oncology Club Bangladesh (Oncology Club, Bangladesh)  
+- 🔗 [Visit Site](https://oncologyclub.org)  
+- 🛠️ Built With: Codeigniter, MySQL, Flutter
 
 ---
 

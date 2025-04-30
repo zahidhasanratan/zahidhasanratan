@@ -56,6 +56,13 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ## 📂 My Portfolio
 
+## 🏥 **Verify Authentic Medicine**  
+Verify Your Authentic Aristopharma Ltd Medicine. Aristopharma Ltd. is one of the top 10 pharmaceutical companies in Bangladesh.
+
+- 🧬 **Organization:** Aristopharma Ltd (Pharmaceutical Companies)  
+- 🌐 **Visit Website:** [aristopharma.com/verify](https://www.aristopharma.com/verify)  
+- 💻 **Technologies Used:** Laravel, API
+
 🏥 **Course Management Software with Teacher Evaluation**  
 A complete management system for Training Courses.  
 - 🏛️ **Organization:** FIMA (Government Project)  

@@ -59,28 +59,27 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 🏥 **Course Management Software with Teacher Evaluation**  
 A complete management system for Training Courses.  
 - 🏛️ **Organization:** FIMA (Government Project)  
-- 🔗 **Visit Site:** <a href="https://course.fima.gov.bd/login" target="_blank">course.fima.gov.bd</a>  
-- 🛠️ **Built With:** Laravel, MySQL
-  
-🏢 **Sales Representative Management Software | SR Manage Software**  
+- 🔗 **Visit Website:** [course.fima.gov.bd](https://course.fima.gov.bd/login)  
+- 🛠️ **Technologies Used:** Laravel, MySQL
+
+🧾 **Sales Representative Management Software | SR Manage Software**  
 A management system designed for sales representatives and retailers.  
 - 🏛️ **Organization:** Nurjahan Co (Private Company)  
-- 🔗 **Visit Site:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
-- 🛠️ **Built With:** Laravel, MySQL
+- 🔗 **Visit Website:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
+- 🛠️ **Technologies Used:** Laravel, MySQL
 
 🎫 **Conference Management e-Ticketing Software**  
-A comprehensive e-ticketing solution for conferences, allowing registrants to pay via **bKash** or other online payment gateways and instantly receive an e-ticket for entry. Includes a robust **ticket verification system** for secure access control.
-
-🏢 **Organization:** Oncology Club Bangladesh (Oncology Club, Bangladesh)  
-🌐 **Visit Site:** [oncologyclub.org](https://oncologyclub.org)  
-🧰 **Built With:** CodeIgniter, MySQL, Flutter
+A comprehensive e-ticketing solution for conferences, allowing registrants to pay via **bKash** or other online gateways and instantly receive an e-ticket. Includes a robust **ticket verification system** for secure access control.  
+- 🏛️ **Organization:** Oncology Club Bangladesh  
+- 🔗 **Visit Website:** [oncologyclub.org](https://oncologyclub.org)  
+- 🛠️ **Technologies Used:** CodeIgniter, MySQL, Flutter
 
 📚 **Online Book Store | Ecommerce**  
-Harekrokom.com is an online book market which officially started its journey in 2021 and till date is happily serving the readers all over the country to buy books at the comfort of their homes and pay on delivery. 
+Harekrokom.com is an online book market which officially started its journey in 2021 and serves readers nationwide with home delivery and pay-on-delivery service.  
+- 🏛️ **Organization:** Dikdarshan Publication  
+- 🔗 **Visit Website:** [harekrokom.com](https://harekrokom.com)  
+- 🛠️ **Technologies Used:** Laravel, MySQL, Vue
 
-🏢 **Publisher:** Dikdarshan Publication  
-🔗 **Visit Website:** [harekrokom.com](https://harekrokom.com)  
-🛠️ **Technologies Used:** Laravel, MySQL, Vue
 
 
 ---

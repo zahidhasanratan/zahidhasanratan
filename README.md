@@ -56,13 +56,47 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ## 📂 My Portfolio
 
-| Project | Organization | Visit | Tech Stack |
-|--------|--------------|-------|------------|
-| **🏥 Verify Authentic Medicine**<br>Verify your Aristopharma Ltd medicine. | Aristopharma Ltd | [aristopharma.com/verify](https://www.aristopharma.com/verify) | Laravel, API |
-| **🏥 Course Management Software**<br>Training course and teacher evaluation system. | FIMA (Govt. Project) | [course.fima.gov.bd](https://course.fima.gov.bd/login) | Laravel, MySQL |
-| **🧾 SR Management Software**<br>Manage sales reps and retailers efficiently. | Nurjahan Co | [software.nurjahan.com.bd](https://software.nurjahan.com.bd/) | Laravel, MySQL |
-| **🎫 Conference e-Ticketing**<br>Conference ticketing & verification with bKash. | Oncology Club BD | [oncologyclub.org](https://oncologyclub.org) | CodeIgniter, MySQL, Flutter |
-| **📚 Online Book Store**<br>Nationwide book delivery e-commerce. | Dikdarshan Publication | [harekrokom.com](https://harekrokom.com) | Laravel, MySQL, Vue |
+---
+
+### 🏥 **Verify Authentic Medicine**  
+🔬 *Verify Aristopharma Ltd Medicine*  
+🏢 **Organization:** Aristopharma Ltd  
+🌐 [aristopharma.com/verify](https://www.aristopharma.com/verify)  
+🛠️ **Tech Used:** Laravel, API
+
+---
+
+### 🏥 **Course Management & Evaluation Software**  
+📚 *Manage training courses and teacher evaluations*  
+🏢 **Organization:** FIMA (Govt. Project)  
+🌐 [course.fima.gov.bd](https://course.fima.gov.bd/login)  
+🛠️ **Tech Used:** Laravel, MySQL
+
+---
+
+### 🧾 **SR Management Software**  
+💼 *Retailer and sales rep management system*  
+🏢 **Organization:** Nurjahan Co  
+🌐 [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
+🛠️ **Tech Used:** Laravel, MySQL
+
+---
+
+### 🎫 **Conference e-Ticketing System**  
+🎟️ *Pay via bKash and get e-tickets instantly*  
+🏢 **Organization:** Oncology Club Bangladesh  
+🌐 [oncologyclub.org](https://oncologyclub.org)  
+🛠️ **Tech Used:** CodeIgniter, MySQL, Flutter
+
+---
+
+### 📚 **Online Book Store | Ecommerce**  
+📖 *Nationwide book delivery with pay-on-delivery*  
+🏢 **Organization:** Dikdarshan Publication  
+🌐 [harekrokom.com](https://harekrokom.com)  
+🛠️ **Tech Used:** Laravel, MySQL, Vue
+
+---
 
 
 

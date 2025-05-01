@@ -56,36 +56,13 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ## 📂 My Portfolio
 
-🏥 **Verify Authentic Medicine**  
-Verify Your Authentic Aristopharma Ltd Medicine. Aristopharma Ltd. is one of the top 10 pharmaceutical companies in Bangladesh.
-
-- 🧬 **Organization:** Aristopharma Ltd (Pharmaceutical Companies)  
-- 🌐 **Visit Website:** [aristopharma.com/verify](https://www.aristopharma.com/verify)  
-- 💻 **Technologies Used:** Laravel, API
-
-🏥 **Course Management Software with Teacher Evaluation**  
-A complete management system for Training Courses.  
-- 🏛️ **Organization:** FIMA (Government Project)  
-- 🔗 **Visit Website:** [course.fima.gov.bd](https://course.fima.gov.bd/login)  
-- 🛠️ **Technologies Used:** Laravel, MySQL
-
-🧾 **Sales Representative Management Software | SR Manage Software**  
-A management system designed for sales representatives and retailers.  
-- 🏛️ **Organization:** Nurjahan Co (Private Company)  
-- 🔗 **Visit Website:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
-- 🛠️ **Technologies Used:** Laravel, MySQL
-
-🎫 **Conference Management e-Ticketing Software**  
-A comprehensive e-ticketing solution for conferences, allowing registrants to pay via **bKash** or other online gateways and instantly receive an e-ticket. Includes a robust **ticket verification system** for secure access control.  
-- 🏛️ **Organization:** Oncology Club Bangladesh  
-- 🔗 **Visit Website:** [oncologyclub.org](https://oncologyclub.org)  
-- 🛠️ **Technologies Used:** CodeIgniter, MySQL, Flutter
-
-📚 **Online Book Store | Ecommerce**  
-Harekrokom.com is an online book market which officially started its journey in 2021 and serves readers nationwide with home delivery and pay-on-delivery service.  
-- 🏛️ **Organization:** Dikdarshan Publication  
-- 🔗 **Visit Website:** [harekrokom.com](https://harekrokom.com)  
-- 🛠️ **Technologies Used:** Laravel, MySQL, Vue
+| Project | Organization | Visit | Tech Stack |
+|--------|--------------|-------|------------|
+| **🏥 Verify Authentic Medicine**<br>Verify your Aristopharma Ltd medicine. | Aristopharma Ltd | [aristopharma.com/verify](https://www.aristopharma.com/verify) | Laravel, API |
+| **🏥 Course Management Software**<br>Training course and teacher evaluation system. | FIMA (Govt. Project) | [course.fima.gov.bd](https://course.fima.gov.bd/login) | Laravel, MySQL |
+| **🧾 SR Management Software**<br>Manage sales reps and retailers efficiently. | Nurjahan Co | [software.nurjahan.com.bd](https://software.nurjahan.com.bd/) | Laravel, MySQL |
+| **🎫 Conference e-Ticketing**<br>Conference ticketing & verification with bKash. | Oncology Club BD | [oncologyclub.org](https://oncologyclub.org) | CodeIgniter, MySQL, Flutter |
+| **📚 Online Book Store**<br>Nationwide book delivery e-commerce. | Dikdarshan Publication | [harekrokom.com](https://harekrokom.com) | Laravel, MySQL, Vue |
 
 
 

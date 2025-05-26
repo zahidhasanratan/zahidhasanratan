@@ -25,6 +25,7 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |  |  |  |  |
 
 
+
 ### Email Solutions
 [![Klaviyo](https://img.shields.io/badge/Klaviyo-52E872?style=for-the-badge&logo=klaviyo&logoColor=white)](https://www.klaviyo.com/)
 [![Mailgun](https://img.shields.io/badge/Mailgun-F06B64?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)

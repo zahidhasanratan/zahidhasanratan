@@ -47,6 +47,14 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 📂 My Portfolio
 
 ---
+### 🏥 **Advanced Surveillance & Enterprise Infrastructure Portal**
+
+🔬 *A comprehensive platform for advanced surveillance and enterprise infrastructure management.*  
+🏢 **Organization:** RS Technologies Limited  
+🌐 **Website:** [rst-bd.com](https://rst-bd.com/)  
+🛠️ **Technologies Used:** ReactJS, Laravel, RESTful API
+
+---
 
 ### 🏥 **Verify Authentic Medicine**  
 🔬 *Verify Aristopharma Ltd Medicine*  

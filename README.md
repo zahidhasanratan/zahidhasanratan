@@ -47,12 +47,13 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 📂 My Portfolio
 
 ---
-### 📘 **GroupStudyHub – Online Group Study & Assignment Portal**
+### 🏥 **GroupStudyHub – Online Group Study & Assignment Portal**
 
-🎓 *A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.*  
+🔬 *A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.*  
 🏢 **Organization:** BJET Inc.  
-🌐 **Website:** [project9-8be11.web.app](https://project9-8be11.web.app)  
+🌐 **Website:** [project9-8be11.web.app](https://project9-8be11.web.app) 
 🛠️ **Technologies Used:** ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, JWT, Framer Motion
+
 ---
 ### 🏥 **Advanced Surveillance & Enterprise Infrastructure Portal**
 
@@ -60,7 +61,6 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 🏢 **Organization:** RS Technologies Limited  
 🌐 **Website:** [rst-bd.com](https://rst-bd.com/)  
 🛠️ **Technologies Used:** ReactJS, Laravel, RESTful API
-
 ---
 
 ### 🏥 **Verify Authentic Medicine**  

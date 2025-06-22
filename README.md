@@ -47,61 +47,70 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 ## 📂 My Portfolio
 
 ---
+
 ### 🏥 **GroupStudyHub – Online Group Study & Assignment Portal**
 
 🔬 *A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.*  
 🏢 **Organization:** BJET Inc.  
-🌐 **Website:** [project9-8be11.web.app](https://project9-8be11.web.app) 
+🌐 **Website:** [project9-8be11.web.app](https://project9-8be11.web.app)  
 🛠️ **Technologies Used:** ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, JWT, Framer Motion
 
 ---
+
 ### 🏥 **Advanced Surveillance & Enterprise Infrastructure Portal**
 
 🔬 *A comprehensive platform for advanced surveillance and enterprise infrastructure management.*  
 🏢 **Organization:** RS Technologies Limited  
 🌐 **Website:** [rst-bd.com](https://rst-bd.com/)  
 🛠️ **Technologies Used:** ReactJS, Laravel, RESTful API
+
 ---
 
 ### 🏥 **Verify Authentic Medicine**  
+
 🔬 *Verify Aristopharma Ltd Medicine*  
 🏢 **Organization:** Aristopharma Ltd  
-🌐 [aristopharma.com/verify](https://www.aristopharma.com/verify)  
-🛠️ **Tech Used:** Laravel, API
+🌐 **Website:** [aristopharma.com/verify](https://www.aristopharma.com/verify)  
+🛠️ **Technologies Used:** Laravel, API
 
 ---
 
 ### 🏥 **Course Management & Evaluation Software**  
+
 📚 *Manage training courses and teacher evaluations*  
 🏢 **Organization:** FIMA (Govt. Project)  
-🌐 [course.fima.gov.bd](https://course.fima.gov.bd/login)  
-🛠️ **Tech Used:** Laravel, MySQL
+🌐 **Website:** [course.fima.gov.bd](https://course.fima.gov.bd/login)  
+🛠️ **Technologies Used:** Laravel, MySQL
 
 ---
 
 ### 🧾 **SR Management Software**  
+
 💼 *Retailer and sales rep management system*  
 🏢 **Organization:** Nurjahan Co  
-🌐 [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
-🛠️ **Tech Used:** Laravel, MySQL
+🌐 **Website:** [software.nurjahan.com.bd](https://software.nurjahan.com.bd/)  
+🛠️ **Technologies Used:** Laravel, MySQL
 
 ---
 
 ### 🎫 **Conference e-Ticketing System**  
+
 🎟️ *Pay via bKash and get e-tickets instantly*  
 🏢 **Organization:** Oncology Club Bangladesh  
-🌐 [oncologyclub.org](https://oncologyclub.org)  
-🛠️ **Tech Used:** CodeIgniter, MySQL, Flutter
+🌐 **Website:** [oncologyclub.org](https://oncologyclub.org)  
+🛠️ **Technologies Used:** CodeIgniter, MySQL, Flutter
 
 ---
 
 ### 📚 **Online Book Store | Ecommerce**  
+
 📖 *Nationwide book delivery with pay-on-delivery*  
 🏢 **Organization:** Dikdarshan Publication  
-🌐 [harekrokom.com](https://harekrokom.com)  
-🛠️ **Tech Used:** Laravel, MySQL, Vue
+🌐 **Website:** [harekrokom.com](https://harekrokom.com)  
+🛠️ **Technologies Used:** Laravel, MySQL, Vue
 
 ---
+
 
 
 

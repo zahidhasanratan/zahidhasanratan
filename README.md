@@ -58,6 +58,15 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ---
 
+### 🏥 **Garden Hub – Online Group Study & Assignment Portal**
+
+🔬 *Garden Hub is a community-driven web application where garden enthusiasts can share their favorite gardening tips, explore advice from others, and connect over sustainable and eco-friendly practices. *  
+🏢 **Organization:** Garden Hub.  
+🌐 **Website:** [whimsical-kringle-1987f8.netlify.app](whimsical-kringle-1987f8.netlify.app)  
+🛠️ **Technologies Used:** ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, Framer Motion
+
+---
+
 ### 🏥 **Advanced Surveillance & Enterprise Infrastructure Portal**
 
 🔬 *A comprehensive platform for advanced surveillance and enterprise infrastructure management.*  

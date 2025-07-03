@@ -49,6 +49,16 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ---
 
+### 🏥 **Prescription Software**
+
+🔬 *his application was built specifically for Prof. Dr. Md. Anwarul Karim,
+Consultant Physician and Professor of Pediatric Hematology & Oncology at
+Bangabandhu Sheikh Mujib Medical University Hospital.*  
+🏢 **Organization:** Prof. Dr. Md. Anwarul Karim.  
+🌐 **Website:** [prescription.profkarimbsmmu.com/login]([https://project9-8be11.web.app](https://prescription.profkarimbsmmu.com/login))  
+🛠️ **Technologies Used:** ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Mongoos, Firebase Auth, JWT, Framer Motion
+
+
 ### 🏥 **GroupStudyHub – Online Group Study & Assignment Portal**
 
 🔬 *A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.*  

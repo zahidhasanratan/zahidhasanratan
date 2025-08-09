@@ -49,6 +49,14 @@ Hi, I'm Zahid Hasan, a **Software Developer** with over 11 years of experience. 
 
 ---
 
+### 🏢 **EDIFICE Realty BD OPC – Website & Admin Panel**
+🌍 A complete real estate company solution featuring a high-performance Next.js website and a powerful Express.js-based admin panel for dynamic content management.
+🏢 Organization: EDIFICE Realty BD OPC
+🌐 Website: edificerealtybdopc.com
+🔑 Admin Panel: admin.edificerealtybdopc.com
+🛠️ Technologies Used: Next.js, Tailwind CSS, DaisyUI, AOS Animation, Express.js, Node.js, MongoDB, Mongoose, JWT Authentication, Cloudinary, ImgBB, Multer, cPanel Deployment
+
+---
 ### 🏥 **Prescription Software**
 
 🔬 *his application was built specifically for Prof. Dr. Md. Anwarul Karim,

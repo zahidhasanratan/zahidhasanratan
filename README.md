@@ -251,6 +251,21 @@
 
 ---
 
+### 🏛️ **Foreign Aided Projects Audit Directorate**
+<div align="center">
+
+**Government project management system for foreign aided projects audit and tracking.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | Foreign Aided Projects Audit Directorate (Govt. Project) |
+| 🌐 **Website** | [fapad.gov.org](https://fapad.gov.org) |
+| 🛠️ **Tech Stack** | MERN, MongoDB |
+
+---
+
 ## 📱 Mobile Applications
 
 ### 🎟️ **Conference e-Ticketing System**  

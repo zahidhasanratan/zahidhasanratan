@@ -269,19 +269,11 @@
 
 <div align="center">
 
-### 📈 GitHub Stats & Contributions
+[![GitHub Profile](https://img.shields.io/badge/👤_View_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahidhasanratan)
 
-![Zahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahidhasanratan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+**Visit my GitHub profile to see my repositories, contributions, and activity!**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical&hide_border=true)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidhasanratan&theme=radical&hide_border=true)
-
-### 📊 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahidhasanratan&theme=radical&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/zahidhasanratan?label=Followers&style=social)](https://github.com/zahidhasanratan)
 
 </div>
 

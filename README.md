@@ -269,17 +269,19 @@
 
 <div align="center">
 
-### 📈 My Contribution Graph
+### 📈 GitHub Stats & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidhasanratan&theme=radical&hide_border=false)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidhasanratan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="Zahid's GitHub Stats"/>
 
-### 💻 Most Used Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5ce1e6&text_color=ffffff&icon_color=5ce1e6" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanratan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
+### 🔥 GitHub Streak
 
-### 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.demolab.com/?user=zahidhasanratan&theme=radical&hide_border=true&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahidhasanratan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidhasanratan&theme=radical&hide_border=true&bg_color=0D1117&color=5ce1e6&line=5ce1e6&point=ffffff&area=true" alt="Contribution Graph"/>
 
 </div>
 

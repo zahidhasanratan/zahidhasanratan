@@ -86,11 +86,13 @@
 
 <div align="center">
 
-### 🎯 *Showcasing My Best Work*
+### 🎯 *Showcasing My Best Work - Organized by Category*
 
 </div>
 
 ---
+
+## 🌐 Websites
 
 ### 🏢 **EDIFICE Realty BD OPC – Website & Admin Panel**
 <div align="center">
@@ -105,51 +107,6 @@
 | 🌐 **Website** | [edificerealtybdopc.com](https://edificerealtybdopc.com) |
 | 🔑 **Admin Panel** | [admin.edificerealtybdopc.com](https://admin.edificerealtybdopc.com) |
 | 🛠️ **Tech Stack** | Next.js, Tailwind CSS, DaisyUI, AOS Animation, Express.js, Node.js, MongoDB, Mongoose, JWT Authentication, Cloudinary, ImgBB, Multer, cPanel Deployment |
-
----
-
-### 🏥 **Prescription Software**
-<div align="center">
-
-**This application was built specifically for Prof. Dr. Md. Anwarul Karim, Consultant Physician and Professor of Pediatric Hematology & Oncology at Bangabandhu Sheikh Mujib Medical University Hospital.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | Prof. Dr. Md. Anwarul Karim |
-| 🌐 **Website** | [prescription.profkarimbsmmu.com/login](https://prescription.profkarimbsmmu.com/login) |
-| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Mongoose, Firebase Auth, JWT, Framer Motion |
-
----
-
-### 📚 **GroupStudyHub – Online Group Study & Assignment Portal**
-<div align="center">
-
-**A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | BJET Inc. |
-| 🌐 **Website** | [project9-8be11.web.app](https://project9-8be11.web.app) |
-| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, JWT, Framer Motion |
-
----
-
-### 🌱 **Garden Hub – Community Gardening Platform**
-<div align="center">
-
-**Garden Hub is a community-driven web application where garden enthusiasts can share their favorite gardening tips, explore advice from others, and connect over sustainable and eco-friendly practices.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | Garden Hub |
-| 🌐 **Website** | [whimsical-kringle-1987f8.netlify.app](https://whimsical-kringle-1987f8.netlify.app) |
-| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, Framer Motion |
 
 ---
 
@@ -183,50 +140,7 @@
 
 ---
 
-### 📖 **Course Management & Evaluation Software**  
-<div align="center">
-
-**Comprehensive system to manage training courses and teacher evaluations.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | FIMA (Govt. Project) |
-| 🌐 **Website** | [course.fima.gov.bd](https://course.fima.gov.bd/login) |
-| 🛠️ **Tech Stack** | Laravel, MySQL |
-
----
-
-### 💼 **SR Management Software**  
-<div align="center">
-
-**Complete retailer and sales representative management system for efficient business operations.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | Nurjahan Co |
-| 🌐 **Website** | [software.nurjahan.com.bd](https://software.nurjahan.com.bd/) |
-| 🛠️ **Tech Stack** | Laravel, MySQL |
-
----
-
-### 🎟️ **Conference e-Ticketing System**  
-<div align="center">
-
-**Modern e-ticketing platform with bKash payment integration for instant ticket delivery.**
-
-</div>
-
-| Detail | Information |
-|--------|-------------|
-| 🏢 **Organization** | Oncology Club Bangladesh |
-| 🌐 **Website** | [oncologyclub.org](https://oncologyclub.org) |
-| 🛠️ **Tech Stack** | CodeIgniter, MySQL, Flutter |
-
----
+## 🛒 Ecommerce Platforms
 
 ### 📚 **Online Book Store | Ecommerce**  
 <div align="center">
@@ -255,6 +169,102 @@
 | 🏢 **Organization** | HK Shoop |
 | 🌐 **Website** | [hkshop.com.bd](https://hkshop.com.bd) |
 | 🛠️ **Tech Stack** | Laravel, MySQL, Vue |
+
+---
+
+## 💻 Software Solutions
+
+### 🏥 **Prescription Software**
+<div align="center">
+
+**This application was built specifically for Prof. Dr. Md. Anwarul Karim, Consultant Physician and Professor of Pediatric Hematology & Oncology at Bangabandhu Sheikh Mujib Medical University Hospital.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | Prof. Dr. Md. Anwarul Karim |
+| 🌐 **Website** | [prescription.profkarimbsmmu.com/login](https://prescription.profkarimbsmmu.com/login) |
+| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Mongoose, Firebase Auth, JWT, Framer Motion |
+
+---
+
+### 💼 **SR Management Software**  
+<div align="center">
+
+**Complete retailer and sales representative management system for efficient business operations.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | Nurjahan Co |
+| 🌐 **Website** | [software.nurjahan.com.bd](https://software.nurjahan.com.bd/) |
+| 🛠️ **Tech Stack** | Laravel, MySQL |
+
+---
+
+### 📚 **GroupStudyHub – Online Group Study & Assignment Portal**
+<div align="center">
+
+**A full-featured web platform for collaborative study, assignment submission, and peer evaluation, built for BJET Inc.'s MERN Stack Developer Assessment.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | BJET Inc. |
+| 🌐 **Website** | [project9-8be11.web.app](https://project9-8be11.web.app) |
+| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, JWT, Framer Motion |
+
+---
+
+### 🌱 **Garden Hub – Community Gardening Platform**
+<div align="center">
+
+**Garden Hub is a community-driven web application where garden enthusiasts can share their favorite gardening tips, explore advice from others, and connect over sustainable and eco-friendly practices.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | Garden Hub |
+| 🌐 **Website** | [whimsical-kringle-1987f8.netlify.app](https://whimsical-kringle-1987f8.netlify.app) |
+| 🛠️ **Tech Stack** | ReactJS, Tailwind CSS, Express.js, Node.js, MongoDB, Firebase Auth, Framer Motion |
+
+---
+
+## 🏛️ Government Projects
+
+### 📖 **Course Management & Evaluation Software**  
+<div align="center">
+
+**Comprehensive system to manage training courses and teacher evaluations.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | FIMA (Govt. Project) |
+| 🌐 **Website** | [course.fima.gov.bd](https://course.fima.gov.bd/login) |
+| 🛠️ **Tech Stack** | Laravel, MySQL |
+
+---
+
+## 📱 Mobile Applications
+
+### 🎟️ **Conference e-Ticketing System**  
+<div align="center">
+
+**Modern e-ticketing platform with bKash payment integration for instant ticket delivery. Includes both web and mobile application.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | Oncology Club Bangladesh |
+| 🌐 **Website** | [oncologyclub.org](https://oncologyclub.org) |
+| 🛠️ **Tech Stack** | CodeIgniter, MySQL, Flutter |
 
 ---
 

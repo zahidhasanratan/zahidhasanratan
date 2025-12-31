@@ -243,6 +243,21 @@
 
 ---
 
+### 🛒 **HK Shoop | Ecommerce**  
+<div align="center">
+
+**Modern ecommerce platform for seamless online shopping experience.**
+
+</div>
+
+| Detail | Information |
+|--------|-------------|
+| 🏢 **Organization** | HK Shoop |
+| 🌐 **Website** | [hkshop.com.bd](https://hkshop.com.bd) |
+| 🛠️ **Tech Stack** | Laravel, MySQL, Vue |
+
+---
+
 
 
 
